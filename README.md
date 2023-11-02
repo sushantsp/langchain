@@ -8,5 +8,7 @@ Uses - Langchain, OpenAI, streamlit
 ## 2. YouTube Assistant
 Ask questions about video to the LLM powered Assistant. 
 
+![screen-gif](./YouTubeAssistant.gif)
+
 Uses - Langchain Document Loader, FAISS Vector db, Langchain Text Splitter, OpenAI API
 
